@@ -6,7 +6,7 @@ description: NPC's have places to be!
 
 {% hint style="danger" %}
 THIS RESOURCE IS A WORK IN PROGRESS
-{% endhint %}
+
 
 ## Introduction
 

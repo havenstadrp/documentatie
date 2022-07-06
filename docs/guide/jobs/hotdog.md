@@ -10,7 +10,7 @@ description: Hot dogs! Get your hot dogs here!
 
 {% hint style="warning" %}
 This resource relies on [qb-keyminigame.md](qb-keyminigame.md "mention") otherwise it won't work
-{% endhint %}
+
 
 ## Configuration
 
