@@ -10,11 +10,11 @@ description: Fix 'em up real good
 
 ## Preview
 
-![Displays vehicle heath](<../.gitbook/assets/mechanicchatstatus (1).png>)
+![Displays vehicle heath](<../../assets/images/mechanicchatstatus (1).png>)
 
-![Menu for mechanics to work on cars](../.gitbook/assets/mechanicmenu.png)
+![Menu for mechanics to work on cars](../../assets/images/mechanicmenu.png)
 
-![Displays vehicle health in chat](../.gitbook/assets/mechanicchat.png)
+![Displays vehicle health in chat](../../assets/images/mechanicchat.png)
 
 ## Configuration
 
@@ -138,7 +138,7 @@ Config.RepairCostAmount = { -- the item and amount that is need to repair a part
 ### Vehicle part damage
 
 ```lua
-Config.Damages = { -- These are the menu labels for the respective part 
+Config.Damages = { -- These are the menu labels for the respective part
     ["radiator"] = "Radiator",
     ["axle"] = "Drive Shaft",
     ["brakes"] = "Brakes",
@@ -152,7 +152,7 @@ Config.MinimalMetersForDamage = { -- vehicle driving distance range
         max = 12000, -- maximum range for damage to occur
         multiplier = {
             min = 1, -- minimum damage multiplier
-            max = 8, -- maximum damage multiplier 
+            max = 8, -- maximum damage multiplier
         }
     },
     [2] = {
@@ -178,7 +178,7 @@ Config.MinimalMetersForDamage = { -- vehicle driving distance range
 
 {% hint style="warning" %}
 Only players with citizenid's found in the config can use these commands
-{% endhint %}
+
 
 * /setmechanic - Hire a player as a mechanic
 * /firemechanic - Remove a player as a mechanic

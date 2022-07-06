@@ -94,30 +94,89 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-
 plugins:
   - search:
       lang: nl
       separator: '[\s\-\.]'
 
-
 # Page tree
 nav:
-  - "Home": "index.md"
-  - "Havenstad": "about/havenstad.md"
-  - "Handleidingen":
-    - "Commando's": "guide/commands.md"
-    - "Jobs":
-      - "🚑 Ambulance": "guide/jobs/ambulance.md"
-      - "🚌 Bus": "guide/jobs/bus.md"
-      - "🌭 Hotdog": "guide/jobs/hotdog.md"
-      - "📰 Nieuws": "guide/jobs/nieuws.md"
-      - "👮 Politie": "guide/jobs/politie.md"
-      - "🛻 Takeldienst": "guide/jobs/takeldienst.md"
-      - "🚕 Taxi": "guide/jobs/taxi.md"
-      - "🚛 Trucker": "guide/jobs/trucker.md"
-      - "🔧 VAB": "guide/jobs/vab.md"
-      - "🚛 Vuilniswagen": "guide/jobs/vuilniswagen.md"
+  - "🏠 Havenstad": "index.md"
+  - "💼 Jobs":
+    - "🚑 Ambulance": "guide/jobs/ambulance.md"
+    - "🚌 Bus": "guide/jobs/bus.md"
+    - "🌭 Hotdog": "guide/jobs/hotdog.md"
+    - "📰 Nieuws": "guide/jobs/nieuws.md"
+    - "👮 Politie": "guide/jobs/politie.md"
+    - "🛻 Takeldienst": "guide/jobs/takeldienst.md"
+    - "🚕 Taxi": "guide/jobs/taxi.md"
+    - "🚚 Trucker": "guide/jobs/trucker.md"
+    - "🔧 VAB": "guide/jobs/vab.md"
+    - "🚛 Vuilniswagen": "guide/jobs/vuilniswagen.md"
+    - "⛏️ Mijnen": "guide/jobs/mijnen.md"
+    - "🌮 Taco": "guide/jobs/taco.md"
+    - "🐟 Vissen": "guide/jobs/vissen.md"
+    - "🍇 Wijngaard": "guide/jobs/wijngaard.md"
+    - "🧑‍🌾 Landbouw": "guide/jobs/landbouw.md"
+    - "🤿 Duiken": "guide/jobs/duiken.md"
+    - "👔 Management": "guide/jobs/management.md"
+    - "🪙 Metaaldetector": "guide/jobs/metaaldetector.md"
+  - "💸 Financiël":
+    - "🏦 Bank": "guide/financieel/bank.md"
+    - "🪙 Crypto": "guide/financieel/crypto.md"
+    - "🤑 Pawnshop": "guide/financieel/pawnshop.md"
+  - "🧍 Character":
+    - "🤪 Character": "guide/character/character.md"
+    - "🔄 Command binding": "guide/character/commandbinding.md"
+    - "🕺 Emotes": "guide/character/emotes.md"
+    - "➕ Extra": "guide/character/extra.md"
+    - "⌚ Fitbit": "guide/character/fitbit.md"
+    - "📟 HUD": "guide/character/hud.md"
+    - "🐕 Huisdier": "guide/character/huisdier.md"
+    - "🎒 Inventory": "guide/character/inventory.md"
+    - "👕 Kledij": "guide/character/kledij.md"
+    - "🖨️ Printer": "guide/character/printer.md"
+    - "⭕ Radialmenu": "guide/character/radialmenu.md"
+    - "🗺️ Spawn": "guide/character/spawn.md"
+    - "🧎‍♀️ Strippers": "guide/character/strippers.md"
+    - "👁️ Target": "guide/character/target.md"
+    - "📱 Telefoon": "guide/character/telefoon.md"
+  - "🎰 Casino":
+    - "🃏 Blackjack": "guide/casino/blackjack.md"
+    - "☸️ Luckywheel": "guide/casino/luckywheel.md"
+    - "🏇 Paarden": "guide/casino/paarden.md"
+    - "🪩 Roulette": "guide/casino/roulette.md"
+    - "🎰 Slots": "guide/casino/slots.md"
+  - "🌇 Gebouwen":
+    - "🏢 Stadhuis": "guide/gebouwen/stadhuis.md"
+    - "🏪 Winkel": "guide/gebouwen/winkels.md"
+    - "🏡 Wonen": "guide/gebouwen/wonen.md"
+  - "☠️ Onderwereld":
+    - "⚗️ Drugs": "guide/onderwereld/drugs.md"
+    - "🔐 Gevangenis": "guide/onderwereld/gevangenis.md"
+    - "⛓️ Kidnappen": "guide/onderwereld/kidnap.md"
+    - "🪛 Lockpick": "guide/onderwereld/lockpick.md"
+    - "🤑 Verkopen": "guide/onderwereld/verkopen.md"
+    - "🔫 Wapens": "guide/onderwereld/wapens.md"
+    - "🧹 Werkstraf": "guide/onderwereld/werkstraf.md"
+    - "Overvallen":
+      - "💰 Bank": "guide/onderwereld/overvallen/bank.md"
+      - "🔫 Huis": "guide/onderwereld/overvallen/huis.md"
+      - "🍎 iFruit": "guide/onderwereld/overvallen/ifruit.md"
+      - "💎 Juwelier": "guide/onderwereld/overvallen/juwelier.md"
+      - "🚚 Truck": "guide/onderwereld/overvallen/truck.md"
+      - "🏪 Winkel": "guide/onderwereld/overvallen/winkel.md"
+  - "💾 Server":
+    - "📊 Info": "guide/server/info.md"
+    - "⌨️ Commando's": "guide/server/commands.md"
+  - "🚘 Voertuigen":
+    - "🚗 Voertuig": "guide/voertuigen/voertuig.md"
+    - "🏎️ Autowinkel": "guide/voertuigen/autowinkel.md"
+    - "🅿️ Garages": "guide/voertuigen/garages.md"
+    - "🏁 Racen": "guide/voertuigen/racen.md"
+    - "🔋 Sloperij": "guide/voertuigen/sloperij.md"
+    - "🎨 Tuning": "guide/voertuigen/tuning.md"
+
 
 extra:
   consent:

@@ -298,7 +298,7 @@ local WhitelistedWeapons = { -- weapons to ignore
 
 {% hint style="warning" %}
 Example code is done on the SERVER side
-{% endhint %}
+
 
 #### Setting statuses
 
@@ -370,3 +370,11 @@ end)
 ## Items
 
 * handcuffs - Cuffs a player on use
+
+
+
+Info toevoegen:
+- policedesk
+- wk_wars2x
+- mugshot
+- dispatch

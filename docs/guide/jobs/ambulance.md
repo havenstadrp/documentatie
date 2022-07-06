@@ -108,13 +108,13 @@ TriggerServerEvent('hospital:server:ambulanceAlert', 'I need help')
 
 Calling this event will revive a player for free or a fee with a true bool
 
-{% hint style="info" %}
-Could be used for a revive spot/ped that charges money
-{% endhint %}
+!!! info
+    Could be used for a revive spot/ped that charges money
+
 
 {% hint style="warning" %}
 This event always removes a first aid kit from the source player
-{% endhint %}
+
 
 ```lua
 -- Server event
