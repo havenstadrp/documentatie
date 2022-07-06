@@ -8,8 +8,8 @@ description: To the moon!
 
 * This resource handles the cryptocurrency market for players to be able to buy/sell qbit. It also includes an item called a "cryptostick" that can be exchanged at a configured location for qbit. Some jobs have this item as a random reward already
 
-{% hint style="warning" %}
-This resource only works with qb-phone. Without it, players will not be able to buy or sell qbit!
+!!! warning
+    This resource only works with qb-phone. Without it, players will not be able to buy or sell qbit!
 
 
 ## Preview

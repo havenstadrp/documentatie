@@ -104,7 +104,6 @@ description: It's medicinal? Sure it is...
 ## Introduction
 
 * Handles the logic for growing weed in a player-owned house
-* Uses [qb-houses.md](qb-houses.md "mention") for the location for players to grow weed
 * Multi-stage growing (plant gets bigger overtime)
 * Saves status in the SQL to be able to keep progress through restarts&#x20;
 

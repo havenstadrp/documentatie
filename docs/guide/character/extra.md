@@ -125,8 +125,8 @@ Config.BlacklistedPeds = { -- these NPCs will delete themslves on spawn
 
 ## **Consumables** <a href="#blob-path" id="blob-path"></a>
 
-{% hint style="warning" %}
-When adding new consumables you need to go into the server/consumables.lua and make that item useable with the `QBCore.Functions.CreateUseableItem` function more info on how to do that in [server-function-reference.md](../qb-core/server-function-reference.md "mention")&#x20;
+!!! warning
+    When adding new consumables you need to go into the server/consumables.lua and make that item useable with the `QBCore.Functions.CreateUseableItem` function more info on how to do that in
 
 You can also increase the thirst or hunger with ["itemname"] = math.random(-20, -10) or a single number, the only important thing is that the lower number is first
 
@@ -315,8 +315,6 @@ end)
 * firework2 - More fireworks
 * firework3 - So many fireworks
 * firework4 - Looks nice&#x20;
-* lockpick - The item used to trigger [qb-lockpick.md](qb-lockpick.md "mention")
-* advancedlockpick - Another item used to trigger [qb-lockpick.md](qb-lockpick.md "mention")
 
 ## Commands
 

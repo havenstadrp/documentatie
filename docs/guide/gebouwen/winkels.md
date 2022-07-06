@@ -6,10 +6,7 @@ description: Ya'll got doritos?
 
 ## Introduction
 
-* Works in conjunction with [qb-inventory.md](qb-inventory.md "mention") to let players buy items
 
-!!! info
-    Fun fact, [qb-truckerjob.md](qb-truckerjob.md "mention") is used to refill the store stock!
 
 
 ## Preview
@@ -71,8 +68,8 @@ description: Ohhh, looking fly!
 
 This resource manages outfits and creating your character. Easily configurable by location in the config and features a minimalistic UI for users to understand.
 
-{% hint style="warning" %}
-This resource does not manage replacement or add-on clothes! It only manages outfits if you want to learn more about replacement clothes in FiveM click [here](https://forum.cfx.re/t/how-to-streaming-new-hairstyles-for-characters-step-by-step-for-dummies/1048980).
+!!! warning
+    This resource does not manage replacement or add-on clothes! It only manages outfits if you want to learn more about replacement clothes in FiveM click [here](https://forum.cfx.re/t/how-to-streaming-new-hairstyles-for-characters-step-by-step-for-dummies/1048980).
 
 
 ## Preview
@@ -164,7 +161,7 @@ description: Welcome to your complimentary apartment
 
 ## Preview
 
-![](<../../assets/images/image (3).png>)
+![](<../../assets/images/appartement.png>)
 
 ## Configuration
 
@@ -209,8 +206,7 @@ description: Buy & customize your dream home!
 
 * Allows players to purchase homes that are created by those with the real-estate job. They can decorate them, have a personal garage and share keys with their friends
 
-!!! info
-    By default, this resource uses the 16 free shells found in [qb-interior.md](qb-interior.md "mention")
+
 
 
 ## Preview

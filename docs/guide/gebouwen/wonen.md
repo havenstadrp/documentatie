@@ -10,7 +10,7 @@ description: Welcome to your complimentary apartment
 
 ## Preview
 
-![](<../../assets/images/image (3).png>)
+![](<../../assets/images/appartement.png>)
 
 ## Configuration
 
@@ -55,8 +55,6 @@ description: Buy & customize your dream home!
 
 * Allows players to purchase homes that are created by those with the real-estate job. They can decorate them, have a personal garage and share keys with their friends
 
-!!! info
-    By default, this resource uses the 16 free shells found in [qb-interior.md](qb-interior.md "mention")
 
 
 ## Preview

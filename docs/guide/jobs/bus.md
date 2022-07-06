@@ -4,8 +4,8 @@ description: NPC's have places to be!
 
 # 🚌 qb-busjob
 
-{% hint style="danger" %}
-THIS RESOURCE IS A WORK IN PROGRESS
+!!! danger
+    THIS RESOURCE IS A WORK IN PROGRESS
 
 
 ## Introduction

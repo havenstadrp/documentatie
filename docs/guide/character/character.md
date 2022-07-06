@@ -50,8 +50,8 @@ Config.CamCoords = vector4(-813.46, 178.95, 76.85, 174.5)
 
 ### Apartments integration
 
-{% hint style="warning" %}
-If you disable start apartments, make sure you select a suitable default spawn location!
+!!! warning
+    If you disable start apartments, make sure you select a suitable default spawn location!
 
 
 ```lua

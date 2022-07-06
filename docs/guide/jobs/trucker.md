@@ -6,7 +6,7 @@ description: Truckin' and dumpin'
 
 ## Introduction
 
-* Allows players to rent a van from the warehouse and deliver packages to preset locations. With each delivery there's a chance they will get a cryptostick. Read more about those in[qb-crypto.md](qb-crypto.md "mention")
+
 
 !!! info
     This job is setup to restock random stores around the map as players complete deliveries!
@@ -26,8 +26,7 @@ Config.Vehicles = { --Vehicles the job can rent to start their route
 
 ### Delivery locations
 
-{% hint style="danger" %}
-If you want this job to restock the stores, make sure the name inside the stores table matches the index name in [qb-shops.md](qb-shops.md "mention")
+
 
 
 ```lua

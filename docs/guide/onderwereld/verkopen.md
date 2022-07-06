@@ -12,9 +12,6 @@ description: Need some quick cash?
     The pawnshop can be open all the time or only between configured times!
 
 
-!!! info
-    Players can obtain items for the pawnshop through [qb-houserobbery.md](qb-houserobbery.md "mention") and [qb-jewelry.md](qb-jewelry.md "mention")
-
 
 ## Configuration
 

@@ -6,7 +6,7 @@ description: Please! No more left turns!
 
 ## Introduction
 
-* Authorized players can create races that show up on the race app of [qb-phone.md](qb-phone.md "mention")
+
 
 ## Preview
 

@@ -8,8 +8,8 @@ description: Doesn't look like anyone's home! Don't mind if I do
 
 * Allows players to use a lockpick at specific coordinates within an in-game time range and enter a house where they can search cabinets, drawers, etc. for items!
 
-{% hint style="warning" %}
-This resource relies on qb-lockpick and qb-skillbar for the mini games and qb-interior for the export to spawn the configured shell
+!!! warning
+    This resource relies on qb-lockpick and qb-skillbar for the mini games and qb-interior for the export to spawn the configured shell
 
 
 !!! info

@@ -6,7 +6,7 @@ description: Could you turn up the music please?
 
 ## Introduction
 
-* Allows players to rent a taxi from Downtown Cab Co. and drive NPCs around or they can be contacted using the services app in [qb-phone.md](qb-phone.md "mention"). NPC missions can be started using the [qb-radialmenu.md](qb-radialmenu.md "mention")&#x20;
+
 
 ## Configuration
 
@@ -122,5 +122,5 @@ Config.NpcSkins = { -- https://docs.fivem.net/docs/game-references/ped-models/
     [2] = {
         'ig_barry', -- ped models for out of city
     }
-} 
+}
 ```
