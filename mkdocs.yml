@@ -2,7 +2,7 @@
 site_name: "Havenstad Documentatie"
 site_description: "Officiële documentatie voor Havenstad, een Fivem Roleplay server"
 site_author: "Bedar"
-# site_url: "https://192.168.1.178:8001"
+site_url: "https://havenstadrp.github.io/documentatie"
 
 # Copyright
 copyright: "&copy; 2021 Havenstad"
