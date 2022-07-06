@@ -10,7 +10,7 @@ description: Fix 'em up real good
 
 ## Preview
 
-![Displays vehicle heath](<../../assets/images/mechanicchatstatus (1).png>)
+![Displays vehicle heath](<../../assets/images/mechanicchatstatus.png>)
 
 ![Menu for mechanics to work on cars](../../assets/images/mechanicmenu.png)
 
@@ -176,8 +176,8 @@ Config.MinimalMetersForDamage = { -- vehicle driving distance range
 
 ## Commands
 
-{% hint style="warning" %}
-Only players with citizenid's found in the config can use these commands
+!!! warning
+    Only players with citizenid's found in the config can use these commands
 
 
 * /setmechanic - Hire a player as a mechanic

@@ -243,19 +243,19 @@ description: Car go vroom
 
 * Handles the logic for tuning your car with a in game item called "tunerlaptop"
 * Handles the logic for nitrous
-* Displays nitrous using [qb-hud.md](qb-hud.md "mention")
+
 
 !!! info
     This resource has no configuration file
 
 
-{% hint style="warning" %}
-If you want to use wheel stancing then you must install [vstancer](https://github.com/carmineos/fivem-vstancer)
+!!! warning
+    If you want to use wheel stancing then you must install [vstancer](https://github.com/carmineos/fivem-vstancer)
 
 
 ## Preview
 
-![](../../assets/images/Tunerchip.jpg)
+![](../../assets/images/tunerchip.jpg)
 
 ## Items
 

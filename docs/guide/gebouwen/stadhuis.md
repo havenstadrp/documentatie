@@ -8,8 +8,8 @@ description: Need a new job or identification card?
 
 * Players can manage what job they have and retrieve licenses like weapon licenses, driver's license and identification cards
 
-{% hint style="danger" %}
-This resource will kick players that try to exploit it by giving themself an item or job that is not defined in the resource or that are not within proper distance of the city hall point
+!!! danger
+    This resource will kick players that try to exploit it by giving themself an item or job that is not defined in the resource or that are not within proper distance of the city hall point
 
 
 ## Preview
@@ -52,8 +52,7 @@ Config.Cityhalls = {
 }
 ```
 
-!!! info
-    If you want to add more licenses you need to add them to the [player-data.md](../qb-core/player-data.md "mention") table&#x20;
+
 
 
 ### Driving school locations

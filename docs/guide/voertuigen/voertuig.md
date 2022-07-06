@@ -19,8 +19,8 @@ NOTE TO SELF: Eerst uitleg over voertuigen (eventueel alle merken enz noteren)
 
 ## Configuration
 
-{% hint style="danger" %}
-DO NOT CHANGE THE DEFAULT BANK DOORS IN THE CONFIG IF USING QB-BANKROBBERY
+!!! danger
+    DO NOT CHANGE THE DEFAULT BANK DOORS IN THE CONFIG IF USING QB-BANKROBBERY
 
 
 !!! info
@@ -151,8 +151,8 @@ description: How 'bout them gas prices?
 
 ## Introduction
 
-{% hint style="warning" %}
-This resource is a work in progress and will be our replacement for LegacyFuel
+!!! warning
+    This resource is a work in progress and will be our replacement for LegacyFuel
 
 
 
@@ -291,7 +291,6 @@ description: Don't lock them in your car
 ## Introduction
 
 * Handles the logic of locking/lockpicking and robbing cars
-* Uses [qb-lockpick.md](qb-lockpick.md "mention") for the lockpicking minigame
 * Aim a gun at a ped driver for a chance to rob their keys
 
 ## Configuration

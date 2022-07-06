@@ -6,9 +6,6 @@ description: Ok now you're just showing off
 
 ## Introduction
 
-* Handles the logic for vehicle shops
-* Uses [qb-menu.md](qb-menu.md "mention") and [qb-input.md](qb-input.md "mention") to handle the interactions with optional [qb-target.md](qb-target.md "mention") integration
-* Add custom cars by adding them to your vehicles.lua in your qb-core [shared.md](../qb-core/shared.md "mention") table
 
 **Test Drives:**
 
@@ -163,7 +160,7 @@ description: One person's garbage is another's..
 
 * Players can put their car on display for others to purchase it for the price they set
 * Stores occasion vehicles in the database so they stay there till sold or the seller reclaims their vehicle
-* Players can sell their vehicles outright for the price of the vehicle divided by 2 found in [shared.md](../qb-core/shared.md "mention")
+
 
 ## Preview
 

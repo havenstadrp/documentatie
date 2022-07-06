@@ -7,7 +7,6 @@ description: Obey & survive!
 ## Introduction
 
 * This resource manages police functions and interactions
-* Objects for police to place down via [qb-radialmenu.md](qb-radialmenu.md "mention") such as traffic cones and spike strips
 * Police stash, garage and armory
 * Cuffing players functions
 * Evidence system including blood DNA drops and fingerprints
@@ -296,8 +295,8 @@ local WhitelistedWeapons = { -- weapons to ignore
 
 ### Usage example
 
-{% hint style="warning" %}
-Example code is done on the SERVER side
+!!! warning
+    Example code is done on the SERVER side
 
 
 #### Setting statuses

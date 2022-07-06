@@ -8,8 +8,8 @@ description: Become a CEO, manage your company, make millions
 
 * Handles all the storage and society logic for jobs and gangs&#x20;
 
-{% hint style="danger" %}
-Make sure to add your additional job societies to the `management_funds` table in the database!
+!!! danger
+    Make sure to add your additional job societies to the `management_funds` table in the database!
 
 
 ## Preview
@@ -66,8 +66,8 @@ Config.GangMenuZones = { -- if target is enabled
 
 ## Server exports
 
-{% hint style="warning" %}
-All examples are done on the SERVER side!
+!!! warning
+    All examples are done on the SERVER side!
 
 
 ### AddMoney

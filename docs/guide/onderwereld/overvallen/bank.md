@@ -8,12 +8,12 @@ description: Career criminal?
 
 * Creates robbable lockers inside various banks across the map. It allows for configuring the amount of police needed for each type of robbery as well as the rewards you can get
 
-{% hint style="warning" %}
-This resource includes a thermite mini game in the html folder so without it thermite won't work properly!
+!!! warning
+    This resource includes a thermite mini game in the html folder so without it thermite won't work properly!
 
 
-{% hint style="danger" %}
-This resource works with qb-doorlock to manage the state of the doors using the event named "qb-doorlock:server:updateState" so make sure each door is in the config of qb-doorlock with the correct door id
+!!! danger
+    This resource works with qb-doorlock to manage the state of the doors using the event named "qb-doorlock:server:updateState" so make sure each door is in the config of qb-doorlock with the correct door id
 
 
 ## Configuration

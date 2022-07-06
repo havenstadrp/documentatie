@@ -8,7 +8,6 @@ description: Store your precious!
 
 * Handles all the player's storage such as personal, vehicle, stash, drops
 * Built-in support for crafting items and weapon attachments
-* [qb-shops.md](qb-shops.md "mention") integration for displaying all items available to buy
 * Built-in support for usable vending machines & crafting benches
 
 ## Preview
@@ -95,8 +94,8 @@ Config.AttachmentCrafting = {
 
 ### Bin searching
 
-{% hint style="danger" %}
-This is a work-in-progress and is not functional yet
+!!! danger
+    This is a work-in-progress and is not functional yet
 
 
 ```lua

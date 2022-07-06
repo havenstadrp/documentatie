@@ -12,8 +12,8 @@ description: Keep track of your vitals in style
     The settings menu uses keymapping and is defaulted to "I"
 
 
-{% hint style="danger" %}
-Player settings are stored using KVP which is located on the player's machine so the only way to reset them is by using the in-game menu buttons
+!!! danger
+    Player settings are stored using KVP which is located on the player's machine so the only way to reset them is by using the in-game menu buttons
 
 
 ## Preview

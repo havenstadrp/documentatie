@@ -10,11 +10,6 @@ description: Look up would ya?
 * Post tweets
 * Post advertisements
 * Player to player communication via calling and texting
-* Check their stored vehicles or tracking down lost ones on the [qb-garages.md](qb-garages.md "mention") app
-* Check bank balance and pay bills on the [qb-banking.md](qb-banking.md "mention") app
-* Buy/sell/transfer on the [qb-crypto.md](qb-crypto.md "mention") app
-* Compete in races through the [qb-lapraces.md](qb-lapraces.md "mention")app
-* View owned houses and give out keys on the [qb-houses.md](qb-houses.md "mention") app
 * View the amount of specific online jobs
 * Take photos and view them in the gallery
 
@@ -24,8 +19,8 @@ description: Look up would ya?
 
 ## Configuration
 
-{% hint style="danger" %}
-Make sure to add any additional jobs to the config under billing commissions!
+!!! danger
+    Make sure to add any additional jobs to the config under billing commissions!
 
 
 ### General
@@ -62,8 +57,8 @@ Config.PhoneApplications = {
 
 ### Application store
 
-{% hint style="danger" %}
-This feature is currently under construction and does not function!
+!!! danger
+    This feature is currently under construction and does not function!
 
 
 ```lua
@@ -76,8 +71,8 @@ Config.StoreApps = {}
     Players can change the open phone key via their in-game keybind settings
 
 
-{% hint style="warning" %}
-Make sure to add any additional jobs to the config under billing commissions!
+!!! warning
+    Make sure to add any additional jobs to the config under billing commissions!
 
 
 * /phone - Open phone (keymapped)

@@ -112,8 +112,8 @@ Calling this event will revive a player for free or a fee with a true bool
     Could be used for a revive spot/ped that charges money
 
 
-{% hint style="warning" %}
-This event always removes a first aid kit from the source player
+!!! warning
+    This event always removes a first aid kit from the source player
 
 
 ```lua

@@ -4,8 +4,8 @@ description: Keep your money safe and quickly access!
 
 # 🏦 qb-banking
 
-{% hint style="danger" %}
-This resource is currently being re-worked and merged with qb-atms
+!!! danger
+    This resource is currently being re-worked and merged with qb-atms
 
 
 ## Introduction

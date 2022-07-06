@@ -7,8 +7,7 @@ description: Best hookers in town!
 ## Introduction
 
 * Allows the player to rent a tow truck and accept calls from NPCs and players
-* Players can contact the tow truck driver through the services app in [qb-phone.md](qb-phone.md "mention")
-* NPC missions are chosen at random and are toggled using the [qb-radialmenu.md](qb-radialmenu.md "mention")
+
 
 ## Configuration
 

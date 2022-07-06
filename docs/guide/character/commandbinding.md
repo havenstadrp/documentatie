@@ -26,8 +26,8 @@ Example: Add the word "revive" into the command field. If you leave the argument
 
 #### Adding available keys to bind (found in client/main.lua)
 
-{% hint style="warning" %}
-Currently must add additional keys to the html and JavaScript files
+!!! warning
+    Currently must add additional keys to the html and JavaScript files
 
 
 ```lua

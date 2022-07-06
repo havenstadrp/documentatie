@@ -8,14 +8,14 @@ description: No security officer is safe
 
 * A bank truck heist that players can interact with to get marked bills
 
-{% hint style="danger" %}
-This resource is currently undergoing construction for improvements!
+!!! danger
+    This resource is currently undergoing construction for improvements!
 
 
 ## Configuration
 
-{% hint style="warning" %}
-This resource has no configuration file all configuration must be done through the resources files
+!!! warning
+    This resource has no configuration file all configuration must be done through the resources files
 
 
 ### Server side configuration
