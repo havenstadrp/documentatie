@@ -54,6 +54,7 @@ theme:
     - search.suggest
     - search.share
     - header.autohide
+    - content.code.annotate
 
 markdown_extensions:
 
@@ -78,11 +79,14 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.highlight
+  - pymdownx.highlight:
+      anchor_linenums: true
+      linenums: true
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.smartsymbols
+  - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
@@ -97,10 +101,23 @@ plugins:
       separator: '[\s\-\.]'
 
 
-# # Page tree
-# nav:
-#   - "Home": "index.md"
-#   - "Havenstad": "about/havenstad.md"
+# Page tree
+nav:
+  - "Home": "index.md"
+  - "Havenstad": "about/havenstad.md"
+  - "Handleidingen":
+    - "Commando's": "guide/commands.md"
+    - "Jobs":
+      - "🚑 Ambulance": "guide/jobs/ambulance.md"
+      - "🚌 Bus": "guide/jobs/bus.md"
+      - "🌭 Hotdog": "guide/jobs/hotdog.md"
+      - "📰 Nieuws": "guide/jobs/nieuws.md"
+      - "👮 Politie": "guide/jobs/politie.md"
+      - "🛻 Takeldienst": "guide/jobs/takeldienst.md"
+      - "🚕 Taxi": "guide/jobs/taxi.md"
+      - "🚛 Trucker": "guide/jobs/trucker.md"
+      - "🔧 VAB": "guide/jobs/vab.md"
+      - "🚛 Vuilniswagen": "guide/jobs/vuilniswagen.md"
 
 extra:
   consent:
