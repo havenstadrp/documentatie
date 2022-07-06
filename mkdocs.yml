@@ -7,10 +7,10 @@ site_author: "Bedar"
 # Copyright
 copyright: "&copy; 2021 Havenstad"
 
-# # Repository
-# repo_name: "GitHub"
-# repo_url: "https://github.com/peaceiris/mkdocs-material-boilerplate"
-# edit_uri: "https://github.com/peaceiris/mkdocs-material-boilerplate/edit/main/docs_sample"
+# Repository
+repo_name: "havenstadrp/documentatie"
+repo_url: "https://github.com/havenstadrp/documentatie"
+edit_uri: "edit/main/docs/"
 
 # Configuration
 docs_dir: "docs"
@@ -55,11 +55,51 @@ theme:
     - search.share
     - header.autohide
 
+markdown_extensions:
+
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+
 plugins:
   - search:
       lang: nl
       separator: '[\s\-\.]'
-  - tags
+
+  - git-revision-date-localized:
+      enable_creation_date: true
+      fallback_to_build_date: true
+
 
 # # Page tree
 # nav:
@@ -96,4 +136,4 @@ extra:
 
   generator: false
 
-copyright: Copyright &copy; 2019 - 2022 Havenstad
+copyright: Copyright &copy; 2020 - 2022 Havenstad
