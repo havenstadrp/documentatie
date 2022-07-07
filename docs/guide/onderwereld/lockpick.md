@@ -12,21 +12,3 @@ description: Locks were meant to be picked
 
 ![](../../assets/images/lockpick.png)
 
-## Configuration
-
-!!! info
-	This resource requires no configuration and has no dependencies
-
-
-## Usage Example
-
-```lua
-local function lockpickFinish(success) -- callback function
-	if success then print('Player succeeded') end
-	print('Player failed')
-end
-
-RegisterCommand("testlockpick", function()
-	TriggerEvent('qb-lockpick:client:openLockpick', lockpickFinish)
-end)
-```

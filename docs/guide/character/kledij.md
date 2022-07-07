@@ -24,16 +24,7 @@ This resource manages outfits and creating your character. Easily configurable b
 
 ### Locations&#x20;
 
-```etlua
-Config.Stores = {
-    [1] = {
-        shopType = 'clothing', -- clothing/barber/surgeon
-        coords = vector3(1693.32, 4823.48, 41.06),
-        width = 2,
-        length = 2
-    },
-}
-```
+
 
 !!! info
     This uses a [BoxZone](https://github.com/mkafrin/PolyZone/wiki/BoxZone) the more width and length the bigger the zone&#x20;
@@ -41,44 +32,6 @@ Config.Stores = {
 
 ### Clothing Rooms
 
-```etlua
-Config.ClothingRooms = {
-    [1] = {
-        requiredJob = 'police', -- Can be job or gang name
-        isGang = true/false, -- If above is a gang name then make true
-        coords = vector3(454.43, -988.85, 30.69),
-        width = 2,
-        length = 2,
-        cameraLocation = vector4(454.42, -990.52, 30.69, 358.48)
-    },
-}
-```
 
 ### Job Outfits&#x20;
 
-```etlua
-Config.Outfits = {
-    ['police'] = { -- Job/Gang
-        ['male'] = { -- Gender
-            [0] = { -- Grade Level
-                [1] = { -- Outfits
-                    outfitLabel = 'Short Sleeve',
-                    outfitData = {
-                        ['pants'] = {item = 24, texture = 0}, -- Pants
-                        ['arms'] = {item = 19, texture = 0}, -- Arms
-                        ['t-shirt'] = {item = 58, texture = 0}, -- T Shirt
-                        ['vest'] = {item = 0, texture = 0}, -- Body Vest
-                        ['torso2'] = {item = 55, texture = 0}, -- Jacket
-                        ['shoes'] = {item = 51, texture = 0}, -- Shoes
-                        ['accessory'] = {item = 0, texture = 0}, -- Neck Accessory
-                        ['bag'] = {item = 0, texture = 0}, -- Bag
-                        ['hat'] = {item = -1, texture = -1}, -- Hat
-                        ['glass'] = {item = 0, texture = 0}, -- Glasses
-                        ['mask'] = {item = 0, texture = 0} -- Mask
-                    }
-                },
-            }
-        }
-    }
-}
-```

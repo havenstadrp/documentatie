@@ -29,15 +29,3 @@ Example: Add the word "revive" into the command field. If you leave the argument
 !!! warning
     Currently must add additional keys to the html and JavaScript files
 
-
-```lua
-local availableKeys = { -- https://docs.fivem.net/docs/game-references/controls/
-    {289, "F2"}, -- Corresponding control and label
-    {170, "F3"},
-    {166, "F5"},
-    {167, "F6"},
-    {168, "F7"},
-    {56,  "F9"},
-    {57, "F10"},
-}
-```

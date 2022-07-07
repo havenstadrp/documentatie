@@ -14,40 +14,6 @@ description: Welcome to your complimentary apartment
 
 ## Configuration
 
-```lua
-Apartments = {}
-Apartments.Starting = true/false -- Enable or disable starting apartments
-Apartments.SpawnOffset = 30 -- How far under the map the apartment shell will spawn
-Apartments.Locations = { -- Create new apartment locations
-    ["apartment1"] = {
-        name = "apartment1", -- The apartment name that saves in the database
-        label = "South Rockford Drive", -- The label of the apartment (shown in preview)
-        coords = { -- The apartment entrance location
-            enter = vector4(-667.02, -1105.24, 14.63, 242.32),
-        },
-        polyzoneBoxData = { -- The polyzone box information for the entrance
-            heading = 245,
-            minZ = 13.5,
-            maxZ = 16.0,
-            debug = false,
-            length = 1,
-            width = 3,
-            distance = 2.0,
-            created = false
-        }
-    },
-}
-```
-
-
-
-
-
-
-
----
-description: Buy & customize your dream home!
----
 
 # 🏡 qb-houses
 
@@ -65,27 +31,7 @@ description: Buy & customize your dream home!
 
 ![Personalize your house by using the in-game decorator](https://camo.githubusercontent.com/fc66647c3b51a173e277dfd20cf5265146a66ee7b470e37d1ea5713fa34008d4/68747470733a2f2f696d6775722e636f6d2f666d563067504d2e706e67)
 
-## Configuration
 
-### Generic
-
-```lua
-Config = {}
-Config.MinZOffset = 30 -- how far under the ground shells will spawn
-Config.RamsNeeded = 2 -- how many stormram items are needed to raid a house
-Config.UnownedBlips = false -- enable/disable unowned house blips on the map
-Config.Houses = {} -- populates automatically on server start
-Config.Targets = {} -- populates automatically on server start
-Config.Furniture = {} -- pre-filled with tons of options
-```
-
-### Shells
-
-* Found in qb-houses/client/main.lua at line 697
-
-```lua
-local function getDataForHouseTier(house, coords)
-```
 
 ## Commands
 
@@ -100,45 +46,9 @@ local function getDataForHouseTier(house, coords)
 * police\_stormram - Allows on-duty police to enter and search a player's home
 
 
-
-
-
-
-
----
-description: Which shell will it be?
----
-
 # 🏠 qb-interior
 
 ## Introduction
 
 * Handles all the logic for spawning shell models by exporting functions that can be called in other client-side files
 
-## Configuration
-
-!!! info
-    This resource requires no configuration unless you want to add more exports
-
-
-## What's included?
-
-!!! info
-    The below pdf file shows which shell models come by default
-
-
-{% file src="../../assets/images/k4mb1shellstarter.pdf" %}
-
-!!! info
-    Optionally, this resource comes pre-configured for all of [K4MB1](https://www.k4mb1maps.com/) shells!
-
-
-## Usage example
-
-```lua
-RegisterCommand('spawnshell', function()
-    local ped = PlayerPedId()
-    local coords = GetEntityCoords(ped)
-    local shell = exports['qb-interior']:CreateApartmentShell(coords)
-end)
-```
