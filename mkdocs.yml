@@ -10,7 +10,7 @@ copyright: "&copy; 2022 Havenstad"
 # Repository
 repo_name: "havenstadrp/documentatie"
 repo_url: "https://github.com/havenstadrp/documentatie"
-edit_uri: "edit/main/docs/"
+edit_uri: ""
 
 # Configuration
 docs_dir: "docs"
@@ -42,8 +42,8 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-  logo: "assets/images/logo.png"
-  favicon: "assets/images/favicon.ico"
+  logo: "images/site/logo.png"
+  favicon: "images/site/favicon.ico"
 
   features:
     - navigation.tabs
@@ -219,9 +219,9 @@ extra:
       - accept
       - manage
 
-  version:
-    provider: mike
-    default: latest
+  # version:
+  #   provider: mike
+  #   default: latest
 
   social:
     - icon: fontawesome/brands/discord
@@ -238,4 +238,3 @@ extra:
 
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - javascripts/tablesort.js

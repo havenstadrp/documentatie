@@ -2,7 +2,7 @@
 description: Those bags aren't gonna throw themselves
 ---
 
-# 🚛 qb-garbagejob
+# 🚛 garbagejob
 
 ## Introduction
 

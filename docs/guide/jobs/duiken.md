@@ -2,7 +2,7 @@
 description: Hunting for treasure in the deep blue sea!
 ---
 
-# 🤿 qb-diving
+# 🤿 diving
 
 ## Introduction
 

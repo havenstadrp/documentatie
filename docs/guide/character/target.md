@@ -2,11 +2,11 @@
 description: Always watching you...
 ---
 
-# 👁 qb-target
+# 👁 target
 
 ## Introduction
 
-qb-target is a targeting solution that allows interaction with any predefined entity, model, entity type or polyzone. While activated you can easily and safely replace markers and distance checking, instead of relying on intuitive design to improve player experiences and optimize interaction.
+target is a targeting solution that allows interaction with any predefined entity, model, entity type or polyzone. While activated you can easily and safely replace markers and distance checking, instead of relying on intuitive design to improve player experiences and optimize interaction.
 
 ## Features
 
@@ -22,5 +22,5 @@ qb-target is a targeting solution that allows interaction with any predefined en
 * Utilise the `canInteract` function for advanced checks to show or hide an option based on any trigger
 * Ped spawner to spawn peds and assign target options to them all in one place
 
-## These are Templates for all the functions in qb-target
+## These are Templates for all the functions in target
 

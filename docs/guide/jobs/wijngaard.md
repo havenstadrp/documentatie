@@ -2,7 +2,7 @@
 description: You're not supposed to drink the product!
 ---
 
-# 🍇 qb-vineyard
+# 🍇 vineyard
 
 ## Introduction
 

@@ -2,7 +2,7 @@
 description: Ohhh shiny, they're mine!
 ---
 
-# 💎 qb-jewelry
+# 💎 jewelry
 
 ## Introduction
 

@@ -2,7 +2,7 @@
 description: Woah, that's big
 ---
 
-# 📚 qb-smallresources
+# 📚 smallresources
 
 ## Introduction
 

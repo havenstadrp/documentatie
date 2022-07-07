@@ -2,7 +2,7 @@
 description: Store your precious!
 ---
 
-# 🎒 qb-inventory
+# 🎒 inventory
 
 ## Introduction
 
@@ -12,7 +12,7 @@ description: Store your precious!
 
 ## Preview
 
-![](../../assets/images/inv.png)
+![](../../images/inv.png)
 
 ## Configuration
 

@@ -2,7 +2,7 @@
 description: Fancy documents for your viewing pleasure
 ---
 
-# 🖨 qb-printer
+# 🖨 printer
 
 ## Introduction
 
@@ -10,9 +10,9 @@ description: Fancy documents for your viewing pleasure
 
 ## Preview
 
-![](../../assets/images/printer2.jpg)
+![](../../images/printer2.jpg)
 
-![](../../assets/images/printerend.jpg)
+![](../../images/printerend.jpg)
 
 ## Configuration
 

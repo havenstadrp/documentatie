@@ -2,7 +2,7 @@
 description: Ok now you're just showing off
 ---
 
-# 🚗 qb-vehicleshop
+# 🚗 vehicleshop
 
 ## Introduction
 
@@ -29,9 +29,9 @@ description: Ok now you're just showing off
 
 ## Preview
 
-![Sales floor](../../assets/images/vehicleshopfloor.jpg)
+![Sales floor](../../images/vehicleshopfloor.jpg)
 
-![Menu for purchasing a car](../../assets/images/vehicleshopmenu.png)
+![Menu for purchasing a car](../../images/vehicleshopmenu.png)
 
 ## Configuration
 
@@ -44,7 +44,7 @@ description: Ok now you're just showing off
 
 
 
-# 📄 qb-vehiclesales
+# 📄 vehiclesales
 
 ## Introduction
 
@@ -54,5 +54,5 @@ description: Ok now you're just showing off
 
 ## Preview
 
-![](../../assets/images/vehiclesalessheet.jpg)
+![](../../images/vehiclesalessheet.jpg)
 

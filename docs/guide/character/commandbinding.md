@@ -2,7 +2,7 @@
 description: Quickly bind commands to hotkeys
 ---
 
-# 🔄 qb-commandbinding
+# 🔄 commandbinding
 
 ## Introduction
 
@@ -20,7 +20,7 @@ Example: Add the word "revive" into the command field. If you leave the argument
 
 ## Preview
 
-![](../../assets/images/commandbinding.png)
+![](../../images/commandbinding.png)
 
 ## Configuration
 

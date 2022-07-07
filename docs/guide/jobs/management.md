@@ -2,7 +2,7 @@
 description: Become a CEO, manage your company, make millions
 ---
 
-# 👔 qb-management
+# 👔 management
 
 ## Introduction
 
@@ -14,7 +14,7 @@ description: Become a CEO, manage your company, make millions
 
 ## Preview
 
-![](../../assets/images/manangment.png)
+![](../../images/jobs/manangment.png)
 
 ## Configuration
 

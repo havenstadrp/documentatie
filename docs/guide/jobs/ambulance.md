@@ -2,7 +2,7 @@
 description: How many lives will you save?
 ---
 
-# 🚑 qb-ambulancejob
+# 🚑 ambulancejob
 
 ## Introduction
 

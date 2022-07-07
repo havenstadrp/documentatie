@@ -2,7 +2,7 @@
 description: Look up would ya?
 ---
 
-# 📱 qb-phone
+# 📱 phone
 
 ## Introduction
 

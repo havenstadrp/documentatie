@@ -2,7 +2,7 @@
 description: Hot dogs! Get your hot dogs here!
 ---
 
-# 🌭 qb-hotdogjob
+# 🌭 hotdogjob
 
 ## Introduction
 

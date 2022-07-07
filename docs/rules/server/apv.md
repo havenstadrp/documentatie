@@ -626,7 +626,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Bijlage 1
 
-![bijlage-1](../../assets/images/bijlage1.png)
+![bijlage-1](../../images/bijlage1.png)
 
 ### Bijlage 2
 

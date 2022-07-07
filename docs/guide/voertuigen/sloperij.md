@@ -2,7 +2,7 @@
 description: Hope you got your tetanus shot
 ---
 
-# 🔋 qb-scrapyard
+# 🔋 scrapyard
 
 ## Introduction
 

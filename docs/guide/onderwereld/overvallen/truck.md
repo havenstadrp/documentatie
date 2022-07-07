@@ -2,7 +2,7 @@
 description: No security officer is safe
 ---
 
-# 🔫 qb-truckrobbery
+# 🔫 truckrobbery
 
 ## Introduction
 

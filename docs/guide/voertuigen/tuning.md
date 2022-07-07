@@ -2,7 +2,7 @@
 description: Customize your ride!
 ---
 
-# 🎨 qb-customs
+# 🎨 customs
 
 ## Introduction
 
@@ -10,7 +10,7 @@ description: Customize your ride!
 
 ## Preview
 
-![](../../assets/images/customs.png)
+![](../../images/customs.png)
 
 ## Configuration
 
@@ -45,7 +45,7 @@ description: Customize your ride!
 ### Vehicle Neons
 
 
-# 💻 qb-tunerchip
+# 💻 tunerchip
 
 ## Introduction
 
@@ -63,7 +63,7 @@ description: Customize your ride!
 
 ## Preview
 
-![](../../assets/images/tunerchip.jpg)
+![](../../images/tunerchip.jpg)
 
 ## Items
 

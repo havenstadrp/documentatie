@@ -2,7 +2,7 @@
 description: Got any of that good stuff?
 ---
 
-# 💊 qb-drugs
+# 💊 drugs
 
 ## Introduction
 
@@ -41,7 +41,7 @@ description: Got any of that good stuff?
 
 
 
-# 🌿 qb-weed
+# 🌿 weed
 
 ## Introduction
 

@@ -2,7 +2,7 @@
 description: Keep that vehicle pristine
 ---
 
-# 🚘 qb-garages
+# 🚘 garages
 
 ## Introduction
 
@@ -12,8 +12,8 @@ description: Keep that vehicle pristine
 
 
 
-![](../../assets/images/garage1.png)
+![](../../images/garage1.png)
 
-![](../../assets/images/garage2.png)
+![](../../images/garage2.png)
 
 ## Configuration
