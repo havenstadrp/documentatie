@@ -14,23 +14,12 @@ description: Please! No more left turns!
 
 ### General
 
-```lua
-Config = {}
-Config.RaceSetupAllowed = true -- changes dynamically, don't edit this
-Config.WhitelistedCreators = {
-    "CITIZENID", -- List the player citizenid's allowed to create races
-}
-```
-
 ## Commands
 
 * /cancelrace - Cancel the currently active race
 * /togglesetup - Toggle the race creator
 
 
----
-description: If you're not first, you're last
----
 
 # 🏎 qb-streetraces
 

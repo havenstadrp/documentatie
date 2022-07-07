@@ -25,45 +25,15 @@ description: Look up would ya?
 
 ### General
 
-```lua
-Config = {}
-Config.MaxSlots = 20 -- maximum amount of home screen application slots
-Config.BillingCommissions = { -- list job names and the commission amount they get
-    mechanic = 0.10 -- commission percentage
-}
-Config.Linux = false -- if using linux operating system (stores date vs time)
-Config.TweetDuration = 12 -- how many hours to load tweets
-Config.RepeatTimeout = 2000 -- timeout in milliseconds before repeating call
-Config.CallRepeats = 10 -- how many times the call will repeat before hanging up
-```
 
 ### Phone applications
 
-```lua
-Config.PhoneApplications = {
-    ["phone"] = { -- phone application name
-        app = "phone", -- phone application name
-        color = "#04b543", -- phone application color
-        icon = "fa fa-phone-alt", -- phone application icon
-        tooltipText = "Phone", -- text that shows when hovering over application
-        tooltipPos = "top", -- location of pop-up text when hovering over app
-        job = false, --
-        blockedjobs = {}, -- block specific jobs from accessing this app
-        slot = 1, -- the slot the app shows in on the home screen
-        Alerts = 0, --
-    },
-}
-```
+
 
 ### Application store
 
-!!! danger
-    This feature is currently under construction and does not function!
 
 
-```lua
-Config.StoreApps = {}
-```
 
 ## Commands
 

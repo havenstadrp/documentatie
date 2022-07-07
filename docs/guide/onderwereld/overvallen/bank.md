@@ -18,23 +18,7 @@ description: Career criminal?
 
 ## Configuration
 
-```lua
-Config = {}
-Config.MinimumPaletoPolice = 4 -- Minimum amount of police online to start the robbery
-Config.MinimumPacificPolice = 5 -- Minimum amount of police online to start the robbery
-Config.MinimumFleecaPolice = 3 -- Minimum amount of police online to start the robbery
-Config.MinimumThermitePolice = 2 -- Minimum amount of police online to use thermite
-Config.OutlawCooldown = 5 -- The amount of minutes it takes for the cops to be able to be called again after they were called
-Config.HitsNeeded = 13 -- The amount of powerstation needed to be hit to cause a blackout
-Config.BlackoutTimer = 10 -- The amount of minutes a blackout will take until all power comes back
-Config.RewardTypes = {) -- The reward types you can get from the bankrobbery
-Config.LockerRewards = {} -- The rewards you can get from the locker
-Config.LockerRewardsPaleto = {} -- The rewards you can get from the locker in paleto
-Config.LockerRewardsPacific = {} -- The rewards you can get from the locker in pacific
-Config.PowerStations = {} -- Powerstation coords to blow up
-Config.SmallBanks = {} -- Small banks to rob
-Config.BigBanks = {} -- Big banks to rob
-```
+
 
 ## Items
 
