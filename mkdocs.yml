@@ -51,6 +51,8 @@ theme:
     - navigation.sections
     - navigation.prune
     - navigation.top
+    - navigation.instant
+    - navigation.tracking
     - search.suggest
     - search.share
     - header.autohide
@@ -125,7 +127,7 @@ nav:
     - "🏦 Bank": "guide/financieel/bank.md"
     - "🪙 Crypto": "guide/financieel/crypto.md"
     - "🤑 Pawnshop": "guide/financieel/pawnshop.md"
-  - "🧍 Character":
+  - "🦹 Character":
     - "🤪 Character": "guide/character/character.md"
     - "🔄 Command binding": "guide/character/commandbinding.md"
     - "🕺 Emotes": "guide/character/emotes.md"
@@ -166,9 +168,6 @@ nav:
       - "💎 Juwelier": "guide/onderwereld/overvallen/juwelier.md"
       - "🚚 Truck": "guide/onderwereld/overvallen/truck.md"
       - "🏪 Winkel": "guide/onderwereld/overvallen/winkel.md"
-  - "💾 Server":
-    - "📊 Info": "guide/server/info.md"
-    - "⌨️ Commando's": "guide/server/commands.md"
   - "🚘 Voertuigen":
     - "🚗 Voertuig": "guide/voertuigen/voertuig.md"
     - "🏎️ Autowinkel": "guide/voertuigen/autowinkel.md"
@@ -176,6 +175,30 @@ nav:
     - "🏁 Racen": "guide/voertuigen/racen.md"
     - "🔋 Sloperij": "guide/voertuigen/sloperij.md"
     - "🎨 Tuning": "guide/voertuigen/tuning.md"
+  - "💾 Server":
+    - "📊 Info": "guide/server/info.md"
+    - "⌨️ Commando's": "guide/server/commands.md"
+  - "📜 Regels":
+    - "⛵ Server":
+      - "Wetboek": "rules/server/wetboek.md"
+      - "Algemene Plaatselijke Verordening": "rules/server/apv.md"
+      - "Risicogebieden": "rules/server/risico-gebieden.md"
+      - "Douanegebieden": "rules/server/douanegebieden.md"
+      - "NOTAM": "rules/server/notam.md"
+      - "Belastingen": "rules/server/belastingen.md"
+      - "Regelement voor de rechtspraak": "rules/server/rechtspraak.md"
+      - "Streamen op Havenstad": "rules/server/streamen.md"
+      - "Offroad Voertuigen": "rules/server/offroadvoertuigen.md"
+      - "Kosten":
+        - "Advocatuur": "rules/server/kosten/advocatuur.md"
+        - "Ambulance": "rules/server/kosten/ambulance.md"
+        - "ANWB": "rules/server/kosten/anwb.md"
+        - "Politie": "rules/server/kosten/politie.md"
+        - "Vliegschool": "rules/server/kosten/vliegschool.md"
+    - "🎤 Discord":
+      - "Algemeen": "rules/discord/discord.md"
+  - "📋 Vacatures":
+    - "📝 Schrijver": "vacatures/schrijver.md"
 
 
 extra:
