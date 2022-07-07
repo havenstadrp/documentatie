@@ -5,7 +5,7 @@ site_author: "Bedar"
 site_url: "https://havenstadrp.github.io/documentatie"
 
 # Copyright
-copyright: "&copy; 2021 Havenstad"
+copyright: "&copy; 2022 Havenstad"
 
 # Repository
 repo_name: "havenstadrp/documentatie"
@@ -100,6 +100,10 @@ plugins:
   - search:
       lang: nl
       separator: '[\s\-\.]'
+  - git-revision-date-localized:
+      type: timeago
+      locale: nl
+      fallback_to_build_date: false
 
 # Page tree
 nav:
@@ -217,6 +221,7 @@ extra:
 
   version:
     provider: mike
+    default: latest
 
   social:
     - icon: fontawesome/brands/discord
@@ -231,4 +236,6 @@ extra:
 
   generator: false
 
-copyright: Copyright &copy; 2020 - 2022 Havenstad
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
