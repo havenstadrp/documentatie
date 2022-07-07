@@ -2,7 +2,7 @@
 description: Obey & survive!
 ---
 
-# 👮 qb-policejob
+# 👮 policejob
 
 ## Introduction
 

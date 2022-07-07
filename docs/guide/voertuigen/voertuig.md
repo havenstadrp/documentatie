@@ -7,7 +7,7 @@ NOTE TO SELF: Eerst uitleg over voertuigen (eventueel alle merken enz noteren)
 
 
 
-# 🚪 qb-doorlock
+# 🚪 doorlock
 
 ## Introduction
 
@@ -15,7 +15,7 @@ NOTE TO SELF: Eerst uitleg over voertuigen (eventueel alle merken enz noteren)
 
 ## Preview
 
-![](../../assets/images/doorlocks.webp)
+![](../../images/doorlocks.webp)
 
 ## Configuration
 
@@ -50,7 +50,7 @@ NOTE TO SELF: Eerst uitleg over voertuigen (eventueel alle merken enz noteren)
 * /doordebug - debug for doorlocks
 
 
-# ⛽ qb-fuel
+# ⛽ fuel
 
 ## Introduction
 
@@ -59,7 +59,7 @@ NOTE TO SELF: Eerst uitleg over voertuigen (eventueel alle merken enz noteren)
 
 
 
-# 🔨 qb-vehiclefailure
+# 🔨 vehiclefailure
 
 ## Introduction
 
@@ -86,7 +86,7 @@ NOTE TO SELF: Eerst uitleg over voertuigen (eventueel alle merken enz noteren)
 
 
 
-# 🔑 qb-vehiclekeys
+# 🔑 vehiclekeys
 
 ## Introduction
 

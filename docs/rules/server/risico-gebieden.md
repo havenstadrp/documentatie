@@ -6,7 +6,7 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Havenstad,
 
 ## Kaartweergave
 
-![Kaart met risicogebieden](../../assets/images/risicoGebieden.png)
+![Kaart met risicogebieden](../../images/risicoGebieden.png)
 
 ## Postcodes
 

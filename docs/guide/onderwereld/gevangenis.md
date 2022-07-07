@@ -2,7 +2,7 @@
 description: Nice, quiet gated community
 ---
 
-# 🔐 qb-prison
+# 🔐 prison
 
 ## Introduction
 
@@ -31,6 +31,6 @@ description: Nice, quiet gated community
 
 ### Prison break
 
-* Found in qb-prison/client/prisonbreak.lua
+* Found in prison/client/prisonbreak.lua
 
 

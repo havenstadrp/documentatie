@@ -2,7 +2,7 @@
 description: Ya'll got doritos?
 ---
 
-# 🏪 qb-shops
+# 🏪 shops
 
 ## Introduction
 
@@ -11,7 +11,7 @@ description: Ya'll got doritos?
 
 ## Preview
 
-![](../../assets/images/shops.png)
+![](../../images/shops.png)
 
 ## Configuration
 
@@ -22,7 +22,7 @@ description: Ya'll got doritos?
 ### Products
 
 
-# 👕 qb-clothing
+# 👕 clothing
 
 ## Introduction
 
@@ -34,7 +34,7 @@ This resource manages outfits and creating your character. Easily configurable b
 
 ## Preview
 
-![](../../assets/images/kledij.png)
+![](../../images/kledij.png)
 
 ## Configuration
 

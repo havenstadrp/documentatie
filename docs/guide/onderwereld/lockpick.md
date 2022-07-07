@@ -2,7 +2,7 @@
 description: Locks were meant to be picked
 ---
 
-# 🪛 qb-lockpick
+# 🪛 lockpick
 
 ## Introduction
 
@@ -10,5 +10,5 @@ description: Locks were meant to be picked
 
 ## Preview
 
-![](../../assets/images/lockpick.png)
+![](../../images/lockpick.png)
 

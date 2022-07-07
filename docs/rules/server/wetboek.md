@@ -140,7 +140,7 @@
 
 ## Titel I - Vermogensdelicten
 
-![Titel I](../../assets/images/Vermogen.png)
+![Titel I](../../images/Vermogen.png)
 
 ### Artikel I-1 Diefstal (310 SR)
 
@@ -241,7 +241,7 @@
 
 ## Titel II - Geweldsdelicten
 
-![Titel II](../../assets/images/Geweld.png)
+![Titel II](../../images/Geweld.png)
 
 ### Artikel II-1 Wederspannigheid/verzet (180 SR)
 
@@ -369,7 +369,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel III - Verkeersdelicten
 
-![Titel III](../../assets/images/verkeer.png)
+![Titel III](../../images/verkeer.png)
 
 ### Artikel III-1 Verkeersovertredingen in algemene zin (5 WVW)
 
@@ -616,7 +616,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel IV - Opiumwet
 
-![Titel IV](../../assets/images/opium.png)
+![Titel IV](../../images/opium.png)
 
 ### Artikel IV-1 Harddrugs (2 OW)
 
@@ -761,7 +761,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel V - Wet Wapens en Munitie
 
-![Titel V](../../assets/images/WWM.png)
+![Titel V](../../images/WWM.png)
 
 ### Artikel V-1 Tasers (26 WWM)
 
@@ -846,7 +846,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel VI - Wet op de Kansspelen
 
-![Titel VII](../../assets/images/kansspellen.png)
+![Titel VII](../../images/kansspellen.png)
 
 ### Artikel VI-1 Algemeen verbod (1 Wok)
 
@@ -941,7 +941,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 ## Titel VIII - Overige
 
-![Titel VIII](../../assets/images/Overige.png)
+![Titel VIII](../../images/Overige.png)
 
 ### Artikel VIII-1 Niet voldoen aan een bevel of vordering (184 SR)
 

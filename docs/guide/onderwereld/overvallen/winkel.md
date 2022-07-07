@@ -2,7 +2,7 @@
 description: Put the money in the bag!
 ---
 
-# 🔫 qb-storerobbery
+# 🔫 storerobbery
 
 ## Introduction
 

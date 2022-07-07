@@ -2,7 +2,7 @@
 description: Instant transmission
 ---
 
-# 🗺 qb-spawn
+# 🗺 spawn
 
 ## Introduction
 
@@ -10,7 +10,7 @@ description: Instant transmission
 
 ## Preview
 
-![](../../assets/images/qb-spawn.png)
+![](../../images/qb-spawn.png)
 
 ## Configuration
 

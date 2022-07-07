@@ -2,7 +2,7 @@
 description: Express yo' self
 ---
 
-# 🕺 qb-emotes
+# 🕺 emotes
 
 ## Introduction
 

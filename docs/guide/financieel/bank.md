@@ -2,10 +2,10 @@
 description: Keep your money safe and quickly access!
 ---
 
-# 🏦 qb-banking
+# 🏦 banking
 
 !!! danger
-    This resource is currently being re-worked and merged with qb-atms
+    This resource is currently being re-worked and merged with atms
 
 
 ## Introduction

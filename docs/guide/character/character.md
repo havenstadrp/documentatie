@@ -4,7 +4,7 @@ description: INVULLEN
 
 
 Stress uitleg
-qb-cigarettes
+cigarettes
 id-card
 
 
@@ -12,7 +12,7 @@ id-card
 description: Start your journey! Who will you be?
 ---
 
-# 🙋 qb-multicharacter
+# 🙋 multicharacter
 
 ## Introduction
 
@@ -20,7 +20,7 @@ description: Start your journey! Who will you be?
 
 ## Preview
 
-![](../../assets/images/multichar.png)
+![](../../images/multichar.png)
 
 ## Configuration
 

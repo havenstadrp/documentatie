@@ -2,7 +2,7 @@
 description: NPC's have places to be!
 ---
 
-# 🚌 qb-busjob
+# 🚌 busjob
 
 !!! danger
     THIS RESOURCE IS A WORK IN PROGRESS

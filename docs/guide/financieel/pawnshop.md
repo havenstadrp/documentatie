@@ -2,7 +2,7 @@
 description: Need some quick cash?
 ---
 
-# 🤑 qb-pawnshop
+# 🤑 pawnshop
 
 ## Introduction
 

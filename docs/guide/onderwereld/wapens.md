@@ -2,7 +2,7 @@
 description: Pew pew
 ---
 
-# 🔫 qb-weapons
+# 🔫 weapons
 
 ## Introduction
 

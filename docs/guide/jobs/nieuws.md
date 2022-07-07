@@ -2,7 +2,7 @@
 description: Hot off the press!
 ---
 
-# 📰 qb-newsjob
+# 📰 newsjob
 
 ## Introduction
 

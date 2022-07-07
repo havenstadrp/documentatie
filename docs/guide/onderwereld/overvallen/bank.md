@@ -2,7 +2,7 @@
 description: Career criminal?
 ---
 
-# 💰 qb-bankrobbery
+# 💰 bankrobbery
 
 ## Introduction
 
@@ -13,7 +13,7 @@ description: Career criminal?
 
 
 !!! danger
-    This resource works with qb-doorlock to manage the state of the doors using the event named "qb-doorlock:server:updateState" so make sure each door is in the config of qb-doorlock with the correct door id
+    This resource works with doorlock to manage the state of the doors using the event named "doorlock:server:updateState" so make sure each door is in the config of doorlock with the correct door id
 
 
 ## Configuration

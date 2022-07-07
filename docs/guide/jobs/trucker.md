@@ -2,7 +2,7 @@
 description: Truckin' and dumpin'
 ---
 
-# 🚛 qb-truckerjob
+# 🚛 truckerjob
 
 ## Introduction
 

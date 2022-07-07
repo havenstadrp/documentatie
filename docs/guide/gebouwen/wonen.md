@@ -2,20 +2,20 @@
 description: Welcome to your complimentary apartment
 ---
 
-# 🏨 qb-apartments
+# 🏨 apartments
 
 ## Introduction
 
-* This resource manages the apartment system for players. It uses qb-interior to spawn shells at a specific set of coordinates and functions the same as housing except by default the apartments do not cost any money
+* This resource manages the apartment system for players. It uses interior to spawn shells at a specific set of coordinates and functions the same as housing except by default the apartments do not cost any money
 
 ## Preview
 
-![](<../../assets/images/appartement.png>)
+![](<../../images/appartement.png>)
 
 ## Configuration
 
 
-# 🏡 qb-houses
+# 🏡 houses
 
 ## Introduction
 
@@ -46,7 +46,7 @@ description: Welcome to your complimentary apartment
 * police\_stormram - Allows on-duty police to enter and search a player's home
 
 
-# 🏠 qb-interior
+# 🏠 interior
 
 ## Introduction
 

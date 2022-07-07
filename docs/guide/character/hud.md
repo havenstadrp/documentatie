@@ -2,7 +2,7 @@
 description: Keep track of your vitals in style
 ---
 
-# 📟 qb-hud
+# 📟 hud
 
 ## Introduction
 
@@ -18,9 +18,9 @@ description: Keep track of your vitals in style
 
 ## Preview
 
-![](../../assets/images/hudmenu.png)
+![](../../images/hudmenu.png)
 
-![](../../assets/images/hudpreview.png)
+![](../../images/hudpreview.png)
 
 ## FAQ&#x20;
 

@@ -6,4 +6,4 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Havenstad,
 
 ## Kaartweergave
 
-![Kaart met duanegebieden](../../assets/images/douaneGebieden.png)
+![Kaart met duanegebieden](../../images/douaneGebieden.png)

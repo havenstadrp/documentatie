@@ -2,7 +2,7 @@
 description: Please! No more left turns!
 ---
 
-# 🏁 qb-lapraces
+# 🏁 lapraces
 
 ## Introduction
 
@@ -21,7 +21,7 @@ description: Please! No more left turns!
 
 
 
-# 🏎 qb-streetraces
+# 🏎 streetraces
 
 ## Introduction
 

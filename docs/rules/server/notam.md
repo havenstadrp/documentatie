@@ -9,4 +9,4 @@ De volgende gebieden zijn aangemerkt als no fly zones.
 
 Hier onder staan deze zones weergegeven op de kaart van Havenstad.
 
-![No fly zones](../../assets/images/restrictedAirspace.jpg)
+![No fly zones](../../images/restrictedAirspace.jpg)
