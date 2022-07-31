@@ -1,6 +1,5 @@
 ---
 description: Een lijst met alle commando's
-password: test
 hide:
   - navigation
 ---
