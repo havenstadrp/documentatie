@@ -108,6 +108,7 @@ plugins:
       locale: nl
       fallback_to_build_date: false
   - encryptcontent:
+      use_secret: 'ENCRYPTCONTENT_PASSWORD'
       summary: 'Deze pagina is beschermd met een wachtwoord'
       placeholder: 'Geef wachtwoord en duw op ENTER'
       decryption_failure_message: 'Verkeerd wachtwoord'

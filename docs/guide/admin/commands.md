@@ -1,6 +1,6 @@
 ---
 description: Een lijst met alle commando's
-# password: Simba585191c
+password: test
 hide:
   - navigation
 ---
