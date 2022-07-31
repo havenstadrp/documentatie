@@ -27,6 +27,8 @@ theme:
 #     previous: 80 # p
 #     search: 83 # s
 
+  highlightjs: true
+
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -57,6 +59,7 @@ theme:
     - search.share
     - header.autohide
     - content.code.annotate
+    - toc.integrate
 
 markdown_extensions:
 
@@ -104,6 +107,15 @@ plugins:
       type: timeago
       locale: nl
       fallback_to_build_date: false
+  - encryptcontent:
+      summary: 'Deze pagina is beschermd met een wachtwoord'
+      placeholder: 'Geef wachtwoord en duw op ENTER'
+      decryption_failure_message: 'Verkeerd wachtwoord'
+      encryption_info_message: 'Contacteer de Admins om toegang te vragen'
+      encrypted_something:
+        mkdocs-encrypted-toc: [nav, class]
+        mkdocs-encrypted-footer: [div, id]
+        mkdocs-encrypted-footer-meta: [div, id]
 
 # Page tree
 nav:
@@ -201,8 +213,11 @@ nav:
         - "Vliegschool": "rules/server/kosten/vliegschool.md"
     - "🎤 Discord":
       - "Algemeen": "rules/discord/discord.md"
-  - "📋 Vacatures":
-    - "📝 Schrijver": "vacatures/schrijver.md"
+  # - "📋 Vacatures":
+  #   - "📝 Schrijver": "vacatures/schrijver.md"
+  - "👾 Admin":
+    - "⌨️ Commando's": "guide/admin/commands.md"
+    - " Admin menu": "guide/admin/adminmenu.md"
 
 
 extra:
